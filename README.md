@@ -15,6 +15,16 @@
 - Vanilla JavaScript;
 - TMDb API.
 
+🌐 _API Endpoints_.The project uses the following TMDb API endpoints:
+- GET /genre/movie/list - Genre list
+- GET /movie/popular - Popular movies
+- GET /movie/upcoming - Upcoming premieres
+- GET /movie/top_rated - Top rated movies
+- GET /trending/movie/week - Trending movies of the week
+- GET /search/movie - Search movies
+- GET /movie/{id} - Movie details
+- GET /discover/movie - Filter movies
+
 🔧 _Opportunities for development_
 - adding an authorization system;
 - saving your favorite movies;
